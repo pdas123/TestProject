@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 16 03:57:34 PST 2014
+jsr311-api-1.1.1.pom>remote-repos=
+jsr311-api-1.1.1.pom>atlas-remote-repos=
+jsr311-api-1.1.1.jar>atlas-remote-repos=

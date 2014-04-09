@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Feb 18 23:18:35 PST 2014
+http\://almprd-mr1.us.oracle.com\:8081/artifactory/repo/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:jar\:1.1 from/to remote-repos (http\://almprd-mr1.us.oracle.com\:8081/artifactory/repo)\: Failed to transfer file\: http\://almprd-mr1.us.oracle.com\:8081/artifactory/repo/javax/ws/rs/jsr311-api/1.1/jsr311-api-1.1.jar. Return code is\: 502 , ReasonPhrase\:cannotconnect.
+https\://maven.atlassian.com/repository/public/.lastUpdated=1392794315299
+da39a3ee5e6b4b0d3255bfef95601890afd80709@www-proxy.idc.oracle.com\:80>default-http\://almprd-mr1.us.oracle.com\:8081/artifactory/repo/.lastUpdated=1392794305801

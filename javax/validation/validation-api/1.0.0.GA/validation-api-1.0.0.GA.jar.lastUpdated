@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 18 03:10:51 PST 2013
+da39a3ee5e6b4b0d3255bfef95601890afd80709@www-proxy-adc.us.oracle.com\:80>ff04943661719a345a91454bd232e00c24aaa443@default-http\://slc05ixi.us.oracle.com\:8081/artifactory/repo/.lastUpdated=1387365022391
+http\://slc05ixi.us.oracle.com\:8081/artifactory/repo/.error=Could not transfer artifact javax.validation\:validation-api\:jar\:1.0.0.GA from/to remote-repos (http\://slc05ixi.us.oracle.com\:8081/artifactory/repo)\: Access denied to\: http\://slc05ixi.us.oracle.com\:8081/artifactory/repo/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar , ReasonPhrase\:Forbidden.
+https\://maven.atlassian.com/repository/public/.lastUpdated=1387365051809

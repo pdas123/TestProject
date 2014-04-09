@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 18 03:10:50 PST 2013
+da39a3ee5e6b4b0d3255bfef95601890afd80709@www-proxy-adc.us.oracle.com\:80>ff04943661719a345a91454bd232e00c24aaa443@default-http\://slc05ixi.us.oracle.com\:8081/artifactory/repo/.lastUpdated=1387365022048
+http\://slc05ixi.us.oracle.com\:8081/artifactory/repo/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4 from/to remote-repos (http\://slc05ixi.us.oracle.com\:8081/artifactory/repo)\: Access denied to\: http\://slc05ixi.us.oracle.com\:8081/artifactory/repo/javax/mail/mail/1.4/mail-1.4.jar , ReasonPhrase\:Forbidden.
+https\://maven.atlassian.com/repository/public/.lastUpdated=1387365050966

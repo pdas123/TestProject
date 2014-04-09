@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 16 03:57:31 PST 2014
+da39a3ee5e6b4b0d3255bfef95601890afd80709@www-proxy-adc.us.oracle.com\:80>ff04943661719a345a91454bd232e00c24aaa443@default-http\://slc05ixi.us.oracle.com\:8081/artifactory/repo/.lastUpdated=1387364994411
+http\://almprd-mr1.us.oracle.com\:8081/artifactory/repo/.lastUpdated=1389873451734
+http\://slc05ixi.us.oracle.com\:8081/artifactory/repo/.error=Could not transfer artifact javax.ws.rs\:jsr311-api\:pom\:1.0 from/to remote-repos (http\://slc05ixi.us.oracle.com\:8081/artifactory/repo)\: Access denied to\: http\://slc05ixi.us.oracle.com\:8081/artifactory/repo/javax/ws/rs/jsr311-api/1.0/jsr311-api-1.0.pom , ReasonPhrase\:Forbidden.
+https\://maven.atlassian.com/repository/public/.lastUpdated=1387364994666
